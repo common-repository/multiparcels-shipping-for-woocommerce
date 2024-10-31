@@ -1,0 +1,1566 @@
+# Translation of Plugins - MultiParcels Shipping For WooCommerce - Stable (latest release) in Lithuanian
+# This file is distributed under the same license as the Plugins - MultiParcels Shipping For WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-07 10:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
+"19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
+"1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: lt_LT\n"
+"Project-Id-Version: Plugins - MultiParcels Shipping For WooCommerce - Stable "
+"(latest release)\n"
+"Language-Team: Lietuvių kalba\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-07 10:41+0000\n"
+"Last-Translator: \n"
+"X-Loco-Version: 2.6.6; wp-6.4.3"
+
+#: includes/abstracts/abstract-wc-mp-courier-shipping-method.php:30
+#, php-format
+msgid "%s courier will deliver the parcel right to the customer's hands."
+msgstr "%s kurjeris pristatys siuntas tiesiai į kliento rankas."
+
+#: includes/abstracts/abstract-wc-mp-bus-station-shipping-method.php:32
+#, php-format
+msgid "%s will deliver the parcel to the bus station in customer's city."
+msgstr "%s pristatys siuntą į gavėjo mieste esančią autobusų stotį."
+
+#: includes/abstracts/abstract-wc-mp-post-shipping-method.php:32
+#, php-format
+msgid "%s will deliver the parcel to the closest post office."
+msgstr "%s pristatys siuntą į artimiausią pašto skyrių."
+
+#: includes/class-mp-admin.php:1341
+msgid "10 min"
+msgstr "10 min"
+
+#: includes/class-mp-admin.php:1344
+msgid "24 hour"
+msgstr "24 valandos"
+
+#: includes/class-mp-admin.php:1342
+msgid "30 min"
+msgstr "30 min"
+
+#: includes/class-mp-admin.php:1343
+msgid "60 min"
+msgstr "60 min"
+
+#: includes/class-mp-notices.php:160
+msgid "Ability to edit products worth when dispatching orders(customs value)"
+msgstr ""
+"Galimybė keisti produktų vertę kai užsakymas išsiunčimas(mutinės vertė)"
+
+#: includes/class-mp-notices.php:162
+msgid "Ability to remove selected pickup point"
+msgstr "Galimybė pašalinti pasirinktą atsiėmimo vietą"
+
+#: includes/class-mp-amazing-shipping.php:269
+msgid "Actions"
+msgstr "Veiksmai"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1976
+msgid "Add a product"
+msgstr "Pridėti produktą"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:465
+msgid "Add door code field"
+msgstr "Pridėti durų kodo laukelį"
+
+#: includes/class-mp-admin.php:1260
+msgid "Address"
+msgstr "Adresas"
+
+#: includes/class-mp-admin.php:2451
+msgid "Address autocomplete"
+msgstr "Adreso užbaigimas"
+
+#: includes/class-mp-admin.php:1559
+msgid "After billing form"
+msgstr "Po mokėtojo forma"
+
+#: includes/class-mp-admin.php:1668
+msgid "After label"
+msgstr "Po pavadinimo"
+
+#: includes/class-mp-admin.php:1557
+msgid "After order notes"
+msgstr "Po užsakymo komentarų"
+
+#: includes/class-mp-admin.php:1561
+msgid "After shipping form"
+msgstr "Po pristatymo forma"
+
+#: includes/class-mp-admin.php:1556
+msgid "After shipping rate"
+msgstr "Po pristatymo kainos"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:199
+msgid "All"
+msgstr "Visos"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:332
+msgid "All cities"
+msgstr "Visi miestai"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:353
+msgid "All cities and only Vilnius, Kaunas, Klaipėda, Alytus in Lithuanian"
+msgstr "Visi miestai ir tik Vilnius, Kaunas, Klaipėda, Alytus Lietuvoje"
+
+#: woocommerce/order/mass-shipping.php:5
+msgid "All orders shipped"
+msgstr "Visi užsakymai išsiųsti"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1901
+msgid "All products value"
+msgstr "Visų produktų vertė"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:421
+msgid "Allow preferred delivery time"
+msgstr "Leisti pasirinkti pageidaujamą pristatymo laiką"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:562
+msgid "Allowed weight:"
+msgstr "Leidžiamas svoris:"
+
+#: includes/class-mp-shippings.php:210
+msgid "Already shipped"
+msgstr "Jau išsiųsta"
+
+#: includes/class-mp-admin.php:1547
+msgid "and group them by city"
+msgstr "ir grupuoti juos pagal miestą"
+
+#: includes/class-mp-admin.php:1094
+msgid "Any many more features coming soon"
+msgstr "Ir dar daugiau opcijų jau greitu metu"
+
+msgid "Any time"
+msgstr ""
+
+#: includes/class-mp-admin.php:443
+msgid "Apartment"
+msgstr "Butas"
+
+#: includes/class-mp-admin.php:203 includes/class-mp-admin.php:837
+msgid "API key"
+msgstr "API raktas"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:261
+msgid "Apply minimum order amount rule before coupon discount"
+msgstr ""
+"Taikyti minimalios užsakymo sumos taisyklę prieš paskaičiuoajnt kupono "
+"nuolaidą"
+
+#: includes/class-mp-admin.php:2444
+msgid "Automatic confirmation"
+msgstr "Automatinis užsakymų patvirtinimas"
+
+#: includes/class-mp-woocommerce.php:231
+#: includes/emails/class-multiparcels-automatic-confirmation-failed-email.php:23
+#: includes/emails/class-multiparcels-automatic-confirmation-failed-email.php:27
+#: includes/emails/class-multiparcels-automatic-confirmation-failed-email.php:28
+msgid "Automatic confirmation failed"
+msgstr "Automatinis patvirtinimas nepavyko"
+
+#: includes/class-mp-admin.php:2261
+msgid "Automatic daily updated pickup locations"
+msgstr "Kasdieniniai automatiniai atsiėmimo vietų atnaujinimai"
+
+#: includes/class-mp-amazing-shipping.php:156
+msgid "Automatically start dispatching orders"
+msgstr ""
+
+#: includes/class-mp-admin.php:1558
+msgid "Before billing form"
+msgstr "Prieš mokėtojo formą"
+
+#: includes/class-mp-admin.php:1673
+msgid "Before Label"
+msgstr "Prieš pavadinimą"
+
+#: includes/class-mp-admin.php:1555
+msgid "Before payment"
+msgstr "Prieš apmokėjimą"
+
+#: includes/class-mp-admin.php:1560
+msgid "Before shipping form"
+msgstr "Prieš pristatymo formą"
+
+#: includes/class-mp-admin.php:493
+msgid "Benefits"
+msgstr "Privalumai"
+
+#: includes/class-mp-notices.php:163
+msgid "Better support for default &lt;select&gt; and group by city"
+msgstr ""
+"Geresnis standartinio &lt;select&gt; palaikymas kai grupuojama pagal miestą"
+
+#: includes/abstracts/abstract-wc-mp-bus-station-shipping-method.php:43
+msgid "Bus station delivery"
+msgstr "Autobusų stoties pristatymas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1880
+msgid "Bus station to bus station"
+msgstr "Iš autobusų stoties į autobusų stotį"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1884
+msgid "Bus station to hands"
+msgstr "Iš autobusų stoties į rankas"
+
+#: includes/class-mp-admin.php:1256 includes/class-mp-woocommerce.php:1140
+msgid "Carrier"
+msgstr "Vežėjas"
+
+#: includes/class-mp-admin.php:2431
+msgid "Carrier logos"
+msgstr "Vežėjų logotipai"
+
+#: includes/class-mp-woocommerce-order-shipping.php:650
+msgid "Carrier selection"
+msgstr "Vežėjo pasirinkimas"
+
+#: includes/class-mp-admin.php:227
+msgid "Carriers"
+msgstr "Vežėjai"
+
+#: includes/class-mp-admin.php:1684
+msgid "Cart and checkout"
+msgstr "Krepšelyje ir atsiskaityme"
+
+#: includes/class-multiparcels-service.php:49
+msgid "Cash-on-delivery (COD)"
+msgstr "Apmokėjimas gavus siuntą (COD)"
+
+#: includes/class-mp-admin.php:323
+msgid "Change order status after dispatching"
+msgstr "Pakeisti užsakymo būseną po išsiuntimo"
+
+#: includes/class-mp-admin.php:331
+msgid "Change order status after dispatching with COD service"
+msgstr "Pakeisti užsakymo būseną po išsiuntimo su COD paslauga"
+
+#: includes/class-mp-admin.php:1888
+msgid "Change order status to \"Completed\" after dispatching the order"
+msgstr "Pakeisti užsakymo būseną į \"Įvykdytas\" po užsakymo išsiuntimo"
+
+#: includes/class-mp-admin.php:2425
+msgid "Checkout"
+msgstr "Atsiskaitymas"
+
+#: includes/class-mp-admin.php:450 includes/class-mp-admin.php:1262
+#: includes/class-mp-woocommerce-order-shipping.php:2120
+msgid "City"
+msgstr "Miestas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1904
+msgid "Comment"
+msgstr "Komentaras"
+
+#: includes/class-mp-notices.php:65
+msgid "Configuration required for this plugin to function!"
+msgstr "Sukonfigūruokite MultiParcels įskiepį jeigu norite juo naudotis"
+
+#: includes/class-mp-admin.php:2264
+msgid "Configure every carrier the way you want"
+msgstr "Sukonfigūruokite kiekvieną vežėją kaip norite"
+
+#: includes/class-mp-notices.php:69 includes/class-mp-notices.php:81
+msgid "Configure MultiParcels"
+msgstr "Konfiguruoti MultiParcels"
+
+#: includes/class-mp-woocommerce-order-shipping.php:302
+msgid "Confirm"
+msgstr "Patvirtinti"
+
+#: includes/class-mp-woocommerce-order-shipping.php:306
+msgid "Confirm unique shipment"
+msgstr "Patvirtinti unikalią siuntą"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2157
+msgid "Confirmation error"
+msgstr "Patvirtinimo klaida"
+
+#: includes/class-mp-woocommerce-order-shipping.php:529
+#: includes/class-mp-woocommerce-order-shipping.php:571
+#: woocommerce/order/mass-shipping.php:19
+msgid "Confirmed"
+msgstr "Patvirtinta"
+
+#: includes/class-mp-admin.php:2254
+msgid "Costs 0&euro; per month"
+msgstr "Kainuoja 0&euro; per mėnesį"
+
+#: includes/class-mp-admin.php:464 includes/class-mp-admin.php:1263
+#: includes/class-mp-woocommerce-order-shipping.php:2124
+msgid "Country"
+msgstr "Šalis"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:260
+msgid "Coupons discounts"
+msgstr "Kuponų nuolaidos"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2128
+#: includes/abstracts/abstract-wc-mp-courier-shipping-method.php:40
+msgid "Courier"
+msgstr "Kurjeris"
+
+#: includes/class-mp-amazing-shipping.php:144 includes/class-mp-admin.php:917
+msgid "Create"
+msgstr "Sukurti"
+
+#: includes/class-mp-amazing-shipping.php:268
+msgid "Created at"
+msgstr "Sukurta"
+
+#: includes/class-mp-admin.php:1508
+msgid "Cronjob command"
+msgstr "Periodinės užduoties komanda"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2152
+msgid "CURL error"
+msgstr "CURL klaida"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:299
+msgid "Customers will only see this shipping method from the selected time"
+msgstr "Pirkėjai matys šį pristatymo būdą tik nuo pasirinkto laiko"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:280
+msgid "Customers will only see this shipping method on the selected day"
+msgstr "Pirkėjai matys šį pristatymo būdą tik pasirinktą savaitės dieną"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:310
+msgid "Customers will only see this shipping method until the selected time"
+msgstr "Pirkėjai matys šį pristatymo būdą tik iki pasirinkto laiko"
+
+#: includes/class-mp-admin.php:367
+msgid "Data update"
+msgstr "Duomenų atnaujinimas"
+
+#: includes/class-mp-admin.php:928 includes/class-mp-admin.php:957
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:179
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:186
+msgid "Default"
+msgstr "Numatyta"
+
+#: includes/class-mp-admin.php:268
+msgid "Default carrier"
+msgstr "Standartinis vežėjas"
+
+#: includes/class-mp-admin.php:283
+msgid "Default maximum items per package"
+msgstr "Numatytas daugiausiai prekių per pakuotę skaičius"
+
+#: includes/class-mp-admin.php:315
+msgid "Default package size"
+msgstr "Standartinis pakuotės dydis"
+
+#: includes/class-mp-admin.php:299
+msgid "Default product weight"
+msgstr "Numatytas produkto svoris"
+
+#: includes/class-mp-admin.php:1835
+msgid "Default weight for products with no weight"
+msgstr "Numatytas produkto svoris produktams be svorio"
+
+#: includes/class-mp-amazing-shipping.php:351 includes/class-mp-admin.php:958
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2110
+msgid "Delivery"
+msgstr "Pristatymas"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:209
+msgid "Delivery Fee"
+msgstr "Pristatymo mokestis"
+
+#: includes/class-mp-admin.php:4276
+msgid "Delivery methods packeta"
+msgstr "Pristatymo metodai packeta"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:348
+msgid "Delivery only to this city"
+msgstr "Pristatymas tik į šį miestą"
+
+#: includes/class-multiparcels-service.php:45
+msgid "Delivery to private person"
+msgstr "Pristatymas privačiam asmeniui"
+
+#: includes/class-mp-admin.php:2109
+msgid "Disable"
+msgstr "Išjungti"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:268
+msgid "Disable free shipping coupon"
+msgstr "Išjungti nemokamo pristatymo kuponus"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:448
+msgid "Disable this method for these shipping classes"
+msgstr "Neleisti pasirinkti šio pristatymo būdo su šiomis pristatymo klasėmis"
+
+#: includes/class-mp-admin.php:531
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:141
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:284
+msgid "Disabled"
+msgstr "Išjungta"
+
+#: includes/class-mp-woocommerce-order-shipping.php:612
+#: includes/class-mp-woocommerce.php:939
+msgid "Dispatch order"
+msgstr "Išsiųsti užsakymą"
+
+#: woocommerce/order/mass-shipping.php:9 woocommerce/order/mass-shipping.php:55
+msgid "Dispatch orders"
+msgstr "Išsiųsti užsakymus"
+
+#: includes/class-mp-mass-shipping.php:89
+msgid "Dispatch selected orders"
+msgstr "Išsiųsti pažymėtus užsakymus"
+
+#: includes/class-mp-admin.php:511
+msgid "Display notice to customers"
+msgstr "Rodyti pranešimą pirkėjams"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:295
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:581
+msgid "Display only from the selected time"
+msgstr "Rodyti tik nuo pasirinkto laiko"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:276
+msgid "Display only on selected day of the week"
+msgstr "Rodyti tik pasirinktą savaitės dieną"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:306
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:587
+msgid "Display only until the selected time"
+msgstr "Rodyti tik iki pasirinkto laiko"
+
+#: includes/class-mp-admin.php:259
+msgid "Display pickup location title in checkout"
+msgstr "Rodyti atsiėmimo vietos antraštę atsiskaityme"
+
+#: includes/class-mp-admin.php:251
+msgid "Display selected pickup location information in checkout"
+msgstr "Rodyti pasirinktos atsiėmimo vietos informaciją atsiskaityme"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:269
+msgid "Do not allow free shipping shipping with free shipping coupon"
+msgstr "Neduoti nemokamo pristatymo su nemokamo pristatymo kuponu"
+
+#: includes/class-multiparcels-service.php:53
+msgid "Do not use warehouse integrations"
+msgstr "Nenaudoti sandėlio integracijų"
+
+#: includes/class-mp-admin.php:2277
+msgid "Do you even need more features?"
+msgstr "Ar dar reikia daugiau opcijų?"
+
+#: includes/class-mp-woocommerce.php:306 includes/class-mp-woocommerce.php:322
+#: includes/class-mp-woocommerce.php:352
+msgid "Does not fit in pickup points"
+msgstr "Netelpa paštomate"
+
+#: includes/class-mp-shippings.php:198 woocommerce/admin/amazing-shipping.php:6
+msgid "Done"
+msgstr "Baigta"
+
+#: includes/class-mp-woocommerce.php:516
+msgid "Door code"
+msgstr "Durų kodas"
+
+#: includes/class-mp-amazing-shipping.php:333
+#: includes/class-mp-shippings.php:250 woocommerce/order/mass-shipping.php:7
+msgid "Download all labels"
+msgstr "Parsisiųsti visus lipdukus"
+
+#: includes/class-mp-admin.php:339
+msgid "Download labels"
+msgstr "Parsisiųsti lipdukus"
+
+#: includes/class-mp-admin.php:478 includes/class-mp-admin.php:2282
+#: includes/class-mp-woocommerce-order-shipping.php:2130
+msgid "E-mail"
+msgstr "El. paštas"
+
+#: includes/class-mp-admin.php:1091
+msgid "Easy label print from our plugin"
+msgstr "Lengvas lipduko atsispausdinimas iš mūsų įskiepio"
+
+#: includes/class-mp-admin.php:2251
+msgid "Easy to configure"
+msgstr "Lengvas paleidimas"
+
+#: includes/emails/class-multiparcels-automatic-confirmation-failed-email.php:105
+msgid "Email type"
+msgstr "Laiško tipas"
+
+#: includes/class-mp-admin.php:639 includes/class-mp-admin.php:2117
+msgid "Enable"
+msgstr "Įjungti"
+
+#: includes/class-mp-admin.php:291
+msgid "Enable log"
+msgstr "Įjungti išrašus"
+
+#: includes/emails/class-multiparcels-automatic-confirmation-failed-email.php:91
+msgid "Enable/Disable"
+msgstr "Įjungta/Išjungta"
+
+#: includes/class-mp-admin.php:503
+msgid "Enabled"
+msgstr "Įjungta"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:213
+msgid "Enter a cost or sum, e.g. 10.00 * [qty]."
+msgstr ""
+
+#: includes/class-mp-shippings.php:262
+msgid "Errors"
+msgstr "Klaidos"
+
+#: includes/class-mp-admin.php:1849
+msgid "Example product code: good-product1,better-product2,the-best-product3"
+msgstr ""
+"Produkto kodo pavyzdys: good-product1,better-product2,the-best-product3"
+
+#: includes/class-mp-shippings.php:206
+msgid "Failed"
+msgstr "Nepavyko"
+
+#: includes/class-mp-amazing-shipping.php:323
+msgid "Failed shipments"
+msgstr "Nepavykusios siuntos"
+
+#: includes/class-mp-woocommerce-order-shipping.php:566
+msgid "Feature disabled"
+msgstr "Funkcija išjungta"
+
+#: includes/class-mp-admin.php:2247
+msgid "Features that come with the free version:"
+msgstr "Nemokamos versijos galimybės:"
+
+#: includes/class-mp-admin.php:613
+msgid "Force phone number to be required"
+msgstr "Padaryti telefono numerį priverstinai privalomą"
+
+#: includes/class-mp-admin.php:2267
+msgid "Free shipping option"
+msgstr "Galimas nemokamas pristatymas"
+
+#: includes/class-mp-admin.php:647
+msgid "Frequency"
+msgstr "Dažnumas"
+
+#: includes/class-mp-admin.php:1381
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:289
+msgid "Friday"
+msgstr "Penktadienis"
+
+msgid "From bus station"
+msgstr ""
+
+msgid "From hands"
+msgstr ""
+
+msgid "From terminal"
+msgstr ""
+
+#: includes/class-mp-admin.php:1227
+msgid "Full"
+msgstr "Pilnos"
+
+#: includes/class-mp-admin.php:2459
+msgid "Full version"
+msgstr "Pilna versija"
+
+#: includes/class-mp-admin.php:1237
+msgid "Get a free API key"
+msgstr "Gauti nemokama API raktą"
+
+#: includes/class-mp-amazing-shipping.php:68
+msgid "Get free full version"
+msgstr "Gauti nemokamą pilną versiją"
+
+#: includes/class-mp-admin.php:1211
+msgid "Get the API key"
+msgstr "Gauti API raktą"
+
+#: includes/class-mp-admin.php:2288
+msgid "Get the free API key"
+msgstr "Gauti nemokamą API raktą"
+
+#: includes/class-mp-admin.php:2243
+msgid "Get your free API key for terminals/pickup points!"
+msgstr "Gaukite nemokamą API raktą paštomatams ir atsiėmimo taškams!"
+
+#: includes/class-mp-admin.php:219 includes/class-mp-admin.php:841
+msgid "Google maps API key"
+msgstr "Google žemėlapių API raktas"
+
+#: includes/class-mp-admin.php:571
+msgid "Grid display"
+msgstr "Tinkelio rodymas"
+
+#: includes/class-mp-admin.php:579
+msgid "Grid display (aligned)"
+msgstr "Tinkelio rodymas (palygintas)"
+
+#: includes/class-mp-admin.php:1764
+msgid "Grid display off"
+msgstr "Tinkelio rodymas išjungtas"
+
+#: includes/class-mp-admin.php:1760
+msgid "Grid display on"
+msgstr "Tinkelio rodymas įjungtas"
+
+#: includes/class-mp-admin.php:1757
+msgid "Grid display on + grid display aligned"
+msgstr "Tinkelio rodymas įjungtas + Tinkelio rodymas palygintas"
+
+#: includes/class-mp-admin.php:1535 includes/class-mp-admin.php:1546
+msgid "group by city"
+msgstr "grupuoti pagal miestą"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1876
+msgid "Hands to bus station"
+msgstr "Iš rankų į autobusų stotį"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1852
+msgid "Hands to hands"
+msgstr "Iš rankų į rankas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1868
+msgid "Hands to post office"
+msgstr "Iš rankų į pašto skyrių"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1856
+msgid "Hands to terminal"
+msgstr "Iš rankų į paštomatą"
+
+#: includes/class-mp-admin.php:2209
+msgid "Have any suggestions or problems?"
+msgstr "Turite pasiūlymų ar klausimų?"
+
+#: includes/class-mp-notices.php:147
+msgid "Hello"
+msgstr "Sveiki"
+
+#: includes/class-mp-admin.php:1251
+msgid "Hide"
+msgstr "Slėpti"
+
+#: includes/class-mp-admin.php:621
+msgid "Hide delivery phone number"
+msgstr "Paslėpti pristatymo telefono numerį"
+
+#: includes/class-mp-admin.php:597
+msgid "Hide not required fields for \"local pickup\""
+msgstr ""
+"Paslėpti neprivalomus laukus kai klientas pasirenka \"Atsiėmimas vietoje\""
+
+#: includes/class-mp-admin.php:589
+msgid "Hide not required fields when shipping to pickup locations"
+msgstr "Paslėpti neprivalomus laukus kai pristatymas į atsiėmimo vietas"
+
+#: includes/class-mp-admin.php:629
+msgid "Hide state field"
+msgstr "Paslėpti valstyjos laukelį"
+
+#: includes/class-mp-shippings.php:255
+msgid "History"
+msgstr "Istorija"
+
+#: includes/class-mp-admin.php:436
+msgid "House"
+msgstr "Namas"
+
+#. Author URI of the plugin
+msgid "https://multiparcels.com"
+msgstr "https://multiparcels.com"
+
+#: includes/class-mp-admin.php:539
+msgid "Icon position"
+msgstr "Logotipo vieta"
+
+#: includes/class-mp-admin.php:547
+msgid "Icon visibility"
+msgstr "Logotipo rodymas"
+
+#: includes/class-mp-admin.php:555
+msgid "Icon width (cart)"
+msgstr "Logotipo plotis (krepšelyje)"
+
+#: includes/class-mp-admin.php:563
+msgid "Icon width (checkout)"
+msgstr "Logotipo plotis (atsiskaityme)"
+
+#: includes/class-mp-admin.php:1257
+msgid "Identification"
+msgstr "Identifikacija"
+
+#: includes/class-multiparcels-service.php:81
+msgid "Insurance"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:575
+msgid "Items"
+msgstr "Prekės"
+
+#: includes/class-mp-woocommerce-order-shipping.php:584
+msgid "Items per package"
+msgstr "Prekių vienoje pakuotėje"
+
+#: includes/class-multiparcels-service.php:69
+msgid "Keep for 10 days in post office"
+msgstr "Saugoti pašte 10 dienų"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:221
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:229
+msgid "Kilograms"
+msgstr "Kilogramai"
+
+#: includes/class-mp-woocommerce-order-shipping.php:554
+#: includes/class-mp-woocommerce-order-shipping.php:560
+#: includes/class-mp-woocommerce-order-shipping.php:565
+#: includes/class-mp-woocommerce.php:946
+msgid "Label"
+msgstr "Lipdukas"
+
+#: includes/class-mp-admin.php:875
+msgid "Last 31 days orders"
+msgstr "Paskutinių 31 dienų užsakymai"
+
+#: includes/class-mp-admin.php:879
+msgid "Last 365 days orders"
+msgstr "Paskutinių 365 dienų užsakymai"
+
+#: includes/class-mp-admin.php:674
+msgid "Last run"
+msgstr "Paskutinis paleidimas"
+
+#: includes/class-mp-admin.php:2360
+msgid "Last update"
+msgstr "Paskutinis atnaujinimas"
+
+#: includes/class-mp-admin.php:1086
+msgid "Let us save your precious time."
+msgstr "Leiskite mums sutaupyti jūsų brangų laiką."
+
+#: includes/class-mp-admin.php:1223
+msgid "Limited (terminals/pickup points only)"
+msgstr "Ribotos (tik paštomatai/atsiėmimo taškai)"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:526
+msgid "Lithuanian POST"
+msgstr "Lietuvos paštas"
+
+#: includes/class-mp-admin.php:485
+msgid "Location code"
+msgstr "Vietos kodas"
+
+#: includes/class-mp-admin.php:833
+msgid "Locations count"
+msgstr "Atsiėmimo vietų skaičius"
+
+#: includes/class-mp-admin.php:2098 includes/class-mp-admin.php:2356
+#: includes/class-mp-notices.php:129
+msgid "Manual update"
+msgstr "Rankinis atnaujinimas"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:375
+msgid "Maximum items per package"
+msgstr "Daugiausiai prekių per pakuotę"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:366
+msgid "Maximum packages"
+msgstr "Daugiausiai pakuočių"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:225
+msgid "Maximum weight"
+msgstr "Didžiausias svoris"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:243
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:572
+msgid "Minimum Order Amount For Free Shipping"
+msgstr "Minimali užsakymo suma nemokamam pristatymui"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:217
+msgid "Minimum weight"
+msgstr "Mažiausias svoris"
+
+#: includes/class-mp-admin.php:1377
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:285
+msgid "Monday"
+msgstr "Pirmadienis"
+
+#. Author of the plugin
+#: includes/class-mp-woocommerce.php:968
+msgid "MultiParcels"
+msgstr "MultiParcels"
+
+#: includes/class-mp-woocommerce.php:782
+msgid "MultiParcels Platform"
+msgstr "MultiParcels Platforma"
+
+#: includes/class-mp-notices.php:148
+#, php-format
+msgid "MultiParcels release notes for %s"
+msgstr "MultiParcels atnaujinimai %s"
+
+#. Name of the plugin
+#: includes/class-mp-admin.php:2322 includes/class-mp-notices.php:123
+msgid "MultiParcels Shipping For WooCommerce"
+msgstr "MultiParcels Pristatymas WooCommerce"
+
+#: includes/class-mp-admin.php:1259
+#: includes/class-mp-woocommerce-order-shipping.php:2116
+msgid "Name"
+msgstr "Pavadinimas"
+
+#: includes/class-mp-admin.php:422
+msgid "Name Surname/Company"
+msgstr "Vardas pavardė/Įmonė"
+
+#: includes/class-mp-admin.php:1427 includes/class-mp-admin.php:2339
+msgid "Never"
+msgstr "Niekada"
+
+#: includes/class-mp-admin.php:1546
+msgid "NEW"
+msgstr "NAUJA"
+
+#: includes/class-mp-notices.php:152 includes/class-mp-notices.php:153
+#: includes/class-mp-notices.php:154 includes/class-mp-notices.php:155
+#: includes/class-mp-notices.php:156 includes/class-mp-notices.php:157
+msgid "New carrier added"
+msgstr "Pridėtas naujas vežėjas"
+
+#: includes/class-mp-admin.php:2274
+msgid "New carriers without updating the plugin"
+msgstr "Nauji vežėjai neatnaujinant įskiepio"
+
+#: includes/class-mp-admin.php:682
+msgid "Next run"
+msgstr "Sekantis paleidimas"
+
+#: includes/class-mp-admin.php:2367
+msgid "Next update"
+msgstr "Sekantis atnaujinimas"
+
+#: includes/class-mp-amazing-shipping.php:161 includes/class-mp-admin.php:708
+#: includes/class-mp-admin.php:729 includes/class-mp-admin.php:750
+#: includes/class-mp-admin.php:766 includes/class-mp-admin.php:782
+#: includes/class-mp-admin.php:808 includes/class-mp-admin.php:1325
+#: includes/class-mp-admin.php:1525 includes/class-mp-admin.php:1539
+#: includes/class-mp-admin.php:1603 includes/class-mp-admin.php:1618
+#: includes/class-mp-admin.php:1635 includes/class-mp-admin.php:1652
+#: includes/class-mp-admin.php:1730 includes/class-mp-admin.php:1741
+#: includes/class-mp-admin.php:1783 includes/class-mp-admin.php:1808
+#: includes/class-mp-admin.php:1884 includes/class-mp-admin.php:1903
+#: includes/class-mp-admin.php:1923 includes/class-mp-admin.php:1934
+#: includes/class-mp-woocommerce-order-shipping.php:520
+#: includes/class-mp-woocommerce-order-shipping.php:561
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:428
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:470
+msgid "No"
+msgstr "Ne"
+
+#: includes/class-mp-admin.php:2257
+msgid "No credit card required"
+msgstr "Nereikalinga kreditinė kortelė"
+
+#: includes/class-mp-admin.php:1093
+msgid "No hidden fees"
+msgstr "Nėra paslėptų mokesčių"
+
+#: includes/class-mp-admin.php:2090 includes/class-mp-notices.php:123
+msgid "No locations found. Please try to run manual update"
+msgstr "Atsiėmimo vietų nerasta. Pabandykite rankinį atnaujinimą"
+
+#, fuzzy
+#| msgid "Phone"
+msgid "None"
+msgstr "Telefonas"
+
+#: includes/class-mp-admin.php:1220
+msgid "None. Wrong API key"
+msgstr "Jokių. Neteisingas API raktas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2086
+msgid "Not enough products in the warehouse"
+msgstr "Nepakankamai produktų sandėlyje"
+
+#: includes/class-mp-admin.php:1182 includes/class-mp-admin.php:1186
+#: includes/class-mp-woocommerce-order-shipping.php:2075
+#: includes/class-mp-woocommerce-order-shipping.php:2079
+msgid "Not valid"
+msgstr "Neteisingas formatas"
+
+#: includes/class-mp-admin.php:1179
+#: includes/class-mp-woocommerce-order-shipping.php:2070
+msgid "Not valid or not found"
+msgstr "Neteisingas formatas arba nerastas"
+
+#: includes/class-mp-admin.php:691
+msgid "Notice"
+msgstr "Pranešimas"
+
+#: includes/class-mp-admin.php:1792
+msgid "Notice:"
+msgstr "Pranešimas:"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:522
+msgid "Omniva (Estonia)"
+msgstr "Omniva (Estija)"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:518
+msgid "Omniva (Latvia)"
+msgstr "Omniva (Latvija)"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:514
+msgid "Omniva (Lithuania)"
+msgstr "Omniva (Lietuva)"
+
+#: includes/class-mp-amazing-shipping.php:58
+msgid "One solution for all courier parcels"
+msgstr "Vienas sprendimas visų kurjerių siuntoms"
+
+#: includes/class-mp-admin.php:1689
+msgid "Only cart"
+msgstr "Tik krepšelyje"
+
+#: includes/class-mp-admin.php:1694
+msgid "Only checkout"
+msgstr "Tik atsiskaityme"
+
+#: includes/class-mp-admin.php:3180
+msgid "Only terminals"
+msgstr ""
+
+#: includes/class-mp-admin.php:2029
+msgid "Optional pickup countries"
+msgstr ""
+
+#: includes/class-mp-shippings.php:260
+msgid "Order"
+msgstr "Užsakymas"
+
+#: includes/class-mp-woocommerce.php:948
+msgid "Order dispatched"
+msgstr "Užsakymas išsiųstas"
+
+#: woocommerce/emails/email-automatic-confirmation-failed.php:14
+msgid "Order ID"
+msgstr "Užsakymo ID"
+
+#: includes/class-mp-admin.php:1089
+msgid "Order shipping details sent to carrier's system"
+msgstr "Užsakymo duomenys siunčiami tiesiai į vežėjo sistemą"
+
+#: includes/class-mp-woocommerce-order-shipping.php:753
+msgid "Package size"
+msgstr "Pakuotės dydis"
+
+#: includes/class-mp-woocommerce-order-shipping.php:593
+msgid "Packages"
+msgstr "Pakuotės"
+
+#: includes/class-mp-woocommerce-order-shipping.php:640
+msgid "Packages quantity"
+msgstr "Pakuočių kiekis"
+
+#: includes/class-multiparcels-service.php:77
+msgid "Parcel content exchange (SWAP)"
+msgstr "Siuntos turinio apkeitimas (SWAP)"
+
+#: includes/class-mp-admin.php:211 includes/class-mp-admin.php:845
+msgid "Permissions"
+msgstr "Teisės"
+
+#: includes/class-mp-admin.php:471
+#: includes/class-mp-woocommerce-order-shipping.php:2126
+msgid "Phone number"
+msgstr "Telefono numeris"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2108
+msgid "Pickup"
+msgstr "Paėmimas"
+
+#: includes/class-mp-woocommerce.php:627 includes/class-mp-woocommerce.php:634
+#: includes/class-mp-woocommerce.php:1151
+#: includes/shipping/class-wc-mp-shipping-helper.php:218
+msgid "Pickup location"
+msgstr "Atsiėmimo vieta"
+
+#: includes/class-mp-admin.php:243
+msgid "Pickup location display place"
+msgstr "Atsiėmimo vietos atvaizdavimo lokacija"
+
+#: multiparcels-shipping-for-woocommerce.php:243
+#: includes/class-mp-woocommerce-order-shipping.php:2162
+msgid "Pickup location not found"
+msgstr "Atsiėmimo vieta nerasta"
+
+#: includes/class-mp-admin.php:375 includes/class-mp-admin.php:2021
+msgid "Pickup locations"
+msgstr "Atsiėmimo vietos"
+
+#: includes/class-mp-woocommerce.php:812 includes/class-mp-locations.php:278
+msgid "Pickup Point"
+msgstr "Atsiėmimo taškas"
+
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:61
+msgid "Pickup Points"
+msgstr "Atsiėmimo taškai"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:201
+msgid "Pickup points"
+msgstr "Atsiėmimo vietos"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2141
+msgid "Plan"
+msgstr "Planas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:634
+msgid "Please add your sending location first"
+msgstr "Prašome pirmiausia pridėti išsiuntimo vietą"
+
+#: includes/class-mp-admin.php:2212
+#, php-format
+msgid "Please do not hesitate to <a href='%s'>contact us</a>"
+msgstr "Nedvėjokite <a href='%s'>susisiekti su mumis</a>"
+
+#: multiparcels-shipping-for-woocommerce.php:248
+#: includes/class-mp-woocommerce.php:642
+#: includes/shipping/class-wc-mp-shipping-helper.php:442
+#: includes/shipping/class-wc-mp-shipping-helper.php:444
+msgid "Please select the pickup location"
+msgstr "Prašome pasirinkti atsiėmimo vietą"
+
+#: includes/shipping/class-wc-mp-shipping-helper.php:283
+#: includes/shipping/class-wc-mp-shipping-helper.php:293
+msgid "Please select the pickup location."
+msgstr "Prašome pasirinkti atsiėmimo vietą."
+
+#: includes/class-mp-admin.php:2128
+msgid "Please update the data to receive the carriers list"
+msgstr ""
+"Prašome rankiniu būdu atlikti atnaujinimą, kad gautumėte kurjerių sąrašą"
+
+#: multiparcels-shipping-for-woocommerce.php:172
+msgid "Please upgrade your WooCommerce."
+msgstr "Prašome atsinaujinti WooCommerce."
+
+#: includes/class-mp-admin.php:817
+msgid "Plugin version"
+msgstr "Įskiepio versija"
+
+#: includes/class-mp-admin.php:821
+msgid "Plugin version (database)"
+msgstr "Įskiepio versija (duomenų bazė)"
+
+#: includes/abstracts/abstract-wc-mp-post-shipping-method.php:43
+msgid "Post office delivery"
+msgstr "Pašto pristatymas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1872
+msgid "Post office to post office"
+msgstr "Iš pašto skyriaus į pašto skyrių"
+
+#: includes/class-mp-admin.php:457 includes/class-mp-admin.php:1261
+#: includes/class-mp-woocommerce-order-shipping.php:2122
+msgid "Postal code"
+msgstr "Pašto kodas"
+
+#: includes/class-mp-woocommerce.php:529
+msgid "Preferred delivery time"
+msgstr "Pageidaujamas pristatymo laikas"
+
+#: includes/class-mp-admin.php:275
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:253
+msgid "Preferred pickup type"
+msgstr "Pageidaujamas paėmimo būdas"
+
+#: includes/class-mp-admin.php:1103
+msgid "Pricing"
+msgstr "Kainoraštis"
+
+#: includes/class-multiparcels-service.php:73
+msgid "Print label at terminal"
+msgstr "Lipdukas paštomate"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1900
+msgid "Product code"
+msgstr "Produkto kodas"
+
+#: includes/class-mp-admin.php:307
+msgid "Product code delimiter"
+msgstr "Produkto kodo skirtukas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1899
+msgid "Product name"
+msgstr "Produkto pavadinimas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1902
+msgid "Product quantity"
+msgstr "Produktų kiekis"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2147
+msgid "Products"
+msgstr "Produktai"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2106
+#: woocommerce/order/mass-shipping.php:17
+#: woocommerce/emails/email-automatic-confirmation-failed.php:16
+msgid "Receiver"
+msgstr "Gavėjas"
+
+#: includes/emails/class-multiparcels-automatic-confirmation-failed-email.php:96
+msgid "Recipient(s)"
+msgstr "Gavėjas(-ai)"
+
+#: includes/class-multiparcels-service.php:33
+msgid "Registered"
+msgstr "Registruota"
+
+#: includes/class-multiparcels-service.php:37
+msgid "Registered and priority"
+msgstr "Registruota ir prioritetinė"
+
+#: includes/class-mp-woocommerce-order-shipping.php:722
+msgid "Remember this selection for future orders"
+msgstr "Prisiminti šį pasirinkimą tokiems pat užsakymams ateityje"
+
+#: includes/class-mp-woocommerce-order-shipping.php:292
+msgid "Remove pickup point"
+msgstr "Pašalinti atsiėmimo vietą"
+
+#: includes/class-mp-woocommerce-order-shipping.php:337
+msgid "Reset and do not change status"
+msgstr "Atstatyti ir nekeisti būsenos"
+
+#: includes/class-mp-woocommerce-order-shipping.php:334
+msgid "Reset and set status to \"Processing\""
+msgstr "Atstatyti ir pakeisti būseną į \"Vykdomas\""
+
+#: includes/class-mp-amazing-shipping.php:343
+msgid "Reset failed"
+msgstr "Atstatyti nepavykusias"
+
+#: includes/class-multiparcels-service.php:61
+msgid "Return label"
+msgstr "Grąžinimo lipdukas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2138
+msgid "Route"
+msgstr "Kelias"
+
+#: includes/class-mp-admin.php:655
+msgid "Run days"
+msgstr "Paleidimo dienos"
+
+#: includes/class-mp-admin.php:1435
+msgid "Run now"
+msgstr "Paleisti dabar"
+
+#: includes/class-mp-carriers.php:306
+#: includes/class-multiparcels-service.php:57
+msgid "Same day delivery"
+msgstr "Tos pačios dienos pristatymas"
+
+#: includes/class-mp-admin.php:1382
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:290
+msgid "Saturday"
+msgstr "Šeštadienis"
+
+#: includes/class-multiparcels-service.php:41
+msgid "Saturday delivery"
+msgstr "Šeštadienio pristatymas"
+
+#: includes/class-mp-woocommerce.php:892
+msgid "Save"
+msgstr "Išsaugoti"
+
+#: multiparcels-shipping-for-woocommerce.php:260
+msgid "Search by pickup point name, address..."
+msgstr ""
+"\n"
+"Ieškokite pagal atsiėmimo vietos pavadinimą, adresą..."
+
+#: multiparcels-shipping-for-woocommerce.php:247
+msgid "Searching..."
+msgstr "Ieškoma..."
+
+#: includes/class-mp-admin.php:348
+msgid "Selected carrier and pickup location on invoice"
+msgstr ""
+
+#: includes/class-mp-locations.php:294
+msgid "Selected pickup point"
+msgstr "Pasirinktas atsiėmimo taškas"
+
+#: includes/class-mp-locations.php:291
+msgid "Selected terminal"
+msgstr "Pasirinktas paštomatas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2104
+msgid "Sender"
+msgstr "Siuntėjas"
+
+#: includes/class-mp-admin.php:2438
+msgid "Sender details"
+msgstr "Siuntėjo duomenys"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1905
+msgid "Sending location"
+msgstr "Išsiuntimo vieta"
+
+#: includes/class-mp-admin.php:414
+msgid "Sending locations"
+msgstr "Išsiuntimo vietos"
+
+#: woocommerce/admin/amazing-shipping.php:3
+msgid "Sending..."
+msgstr "Siunčiama..."
+
+#: includes/class-mp-woocommerce-order-shipping.php:2011
+#: includes/class-mp-woocommerce-order-shipping.php:2112
+#: includes/class-mp-woocommerce-order-shipping.php:2261
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:403
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:545
+msgid "Services"
+msgstr "Paslaugos"
+
+#: multiparcels-shipping-for-woocommerce.php:402 includes/class-mp-admin.php:61
+#: includes/class-mp-admin.php:62 includes/class-mp-admin.php:90
+#: includes/class-mp-admin.php:91 includes/class-mp-admin.php:829
+#: includes/class-mp-admin.php:2407 includes/class-mp-admin.php:2419
+#: includes/class-mp-woocommerce-order-shipping.php:172
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: includes/class-mp-admin.php:2380
+msgid "Settings saved."
+msgstr "Nustatymai išsaugoti."
+
+#: includes/class-mp-woocommerce-order-shipping.php:2183
+msgid "Shipment creation failed"
+msgstr "Siuntos sukūrimas nepavyko"
+
+#: includes/class-mp-amazing-shipping.php:49
+#: includes/class-mp-amazing-shipping.php:141
+#: includes/class-mp-amazing-shipping.php:192
+#: includes/class-mp-amazing-shipping.php:266 includes/class-mp-admin.php:50
+#: includes/class-mp-admin.php:51 includes/class-mp-admin.php:79
+#: includes/class-mp-admin.php:80
+msgid "Shipments"
+msgstr "Siuntos"
+
+#: woocommerce/emails/email-automatic-confirmation-failed.php:18
+msgid "Shipping"
+msgstr "Pristatymas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:170
+msgid "Shipping disabled due to your settings"
+msgstr "Išsiuntimas išjungtas dėl jūsų nustatymų"
+
+#: includes/class-mp-woocommerce-order-shipping.php:868
+#: woocommerce/order/mass-shipping.php:18
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:169
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:594
+msgid "Shipping method"
+msgstr "Siuntimo būdas"
+
+#: includes/class-mp-admin.php:2080
+msgid "Shipping zones"
+msgstr "Pristatymo zonos"
+
+#: includes/class-mp-admin.php:1312
+msgid "Show"
+msgstr "Rodyti"
+
+#: includes/class-mp-admin.php:605
+msgid "Show address 2 field"
+msgstr "Rodyti antrą adreso laukelį"
+
+#: includes/class-mp-admin.php:235
+msgid "Show all cities"
+msgstr "Rodyti visus miestus"
+
+#: includes/class-mp-admin.php:3174
+msgid "shows all terminals and pickup points"
+msgstr ""
+
+#: includes/class-mp-admin.php:1540
+msgid "shows only pickup points in customer's delivery city"
+msgstr "rodo atsiėmimo taškus tik kliento pristatymo mieste"
+
+#: includes/class-mp-admin.php:2270
+msgid "Shows only possible locations for customer's city"
+msgstr "Rodo tik galimas atsiėmimo vietas kliento mieste"
+
+#: includes/class-mp-admin.php:358
+msgid "Skip dispatching for specific methods"
+msgstr "Išsiuntimo būdus kuriems NENORITE kurti siuntų ir lipdukų"
+
+#: includes/class-mp-amazing-shipping.php:315
+msgid "Start"
+msgstr "Pradėti"
+
+#: includes/class-mp-notices.php:52
+msgid "Start saving time with MultiParcels"
+msgstr "Pradėkite taupyti laiką su MultiParcels"
+
+#: includes/class-mp-amazing-shipping.php:267
+#: includes/class-mp-shippings.php:261
+msgid "Status"
+msgstr "Būsena"
+
+#: includes/class-mp-admin.php:663
+msgid "Statuses that will be confirmed"
+msgstr "Būsenos kurios bus patvirtintos"
+
+#: includes/class-mp-admin.php:429
+#: includes/class-mp-woocommerce-order-shipping.php:2118
+msgid "Street"
+msgstr "Gatvė"
+
+#: includes/class-mp-admin.php:1383
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:291
+msgid "Sunday"
+msgstr "Sekmadienis"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:233
+msgid "Tax status"
+msgstr "PVM būsena"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:239
+msgid "Taxable"
+msgstr "Apmokestinama"
+
+#: includes/class-mp-locations.php:275
+msgid "Terminal"
+msgstr "Paštomatas"
+
+#: includes/class-mp-admin.php:470
+msgid "Terminal options"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1864
+msgid "Terminal to hands"
+msgstr "Iš paštomato į rankas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:1860
+msgid "Terminal to terminal"
+msgstr "Iš paštomato į paštomato"
+
+#: includes/abstracts/abstract-wc-mp-terminal-shipping-method.php:55
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:55
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:200
+msgid "Terminals"
+msgstr "Paštomatai"
+
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:58
+msgid "Terminals/Pickup Points"
+msgstr "Paštomatai/Atsiėmimo taškai"
+
+#: includes/class-mp-woocommerce-order-shipping.php:309
+msgid "This allows to create a dublicate shipment for the same order"
+msgstr "Šis mygtukas leidžia sukurti siuntos kopiją tam pačiam užsakymui"
+
+#: includes/class-mp-admin.php:1817
+msgid "This can help find problems faster. Enable and contact support"
+msgstr ""
+"Tai gali padėti surasti problemas greičiau. Įjunkite ir susisiekite su "
+"pagalba"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:153
+msgid "This controls the title which the user sees during checkout."
+msgstr "Tai bus pavadinimas kurį matys klientai atsiskaitymo metu."
+
+#: includes/class-mp-admin.php:1184
+#: includes/class-mp-woocommerce-order-shipping.php:2077
+msgid "This field is required"
+msgstr "Šis laukelis privalomas"
+
+#: multiparcels-shipping-for-woocommerce.php:168
+msgid "This plugin requires at least WooCommerce version 3.0.0."
+msgstr "Šiam įskiepiui reikalinga bent 3.0.0 WooCommerce versija."
+
+#: includes/shipping/class-wc-mp-shipping-helper.php:336
+#, php-format
+msgid "This shipping method is not allowed to your city. Allowed city: %s"
+msgstr "Šis pristatymo būdas negalimas į Jūsų miestą. Galimas miestas: %s"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2084
+msgid "This value has already been used"
+msgstr "Ši reikšmė jau buvo panaudota"
+
+#: includes/class-mp-admin.php:1380
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:288
+msgid "Thursday"
+msgstr "Ketvirtadienis"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:151
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: includes/class-mp-carriers.php:310
+msgid "To bus terminal"
+msgstr "Į autobusų terminalą"
+
+#: includes/class-mp-woocommerce.php:517
+msgid "To make it easy and faster for courier to deliver your order"
+msgstr "Padės kurjeriui greičiau ir lengviau pristatyti jūsų užsakymą"
+
+#: includes/class-mp-woocommerce-order-shipping.php:597
+msgid "Total weight"
+msgstr "Visas svoris"
+
+#: includes/class-mp-woocommerce-order-shipping.php:544
+msgid "Tracking code"
+msgstr "Sekimo kodas"
+
+#: includes/class-mp-admin.php:1092
+msgid "Tracking code sent directly to customer"
+msgstr "Siuntos sekimo kodas siunčiamas tiesiai klientui"
+
+#: includes/class-mp-admin.php:1378
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:286
+msgid "Tuesday"
+msgstr "Antradienis"
+
+#: includes/class-mp-admin.php:1258
+msgid "Type"
+msgstr "Tipas"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2144
+msgid "Unique shipment identifier"
+msgstr "Unikali siuntos nuoroda"
+
+#: includes/class-mp-admin.php:1189
+#: includes/class-mp-woocommerce-order-shipping.php:2092
+msgid "Unknown error occurred"
+msgstr "Nežinoma klaida"
+
+#: includes/class-mp-woocommerce-order-shipping.php:578
+msgid "Unlimited"
+msgstr "Neribojama"
+
+#: includes/class-multiparcels-service.php:65
+msgid "Unregistered"
+msgstr "Neregistruota"
+
+#: includes/class-mp-admin.php:989
+msgid "Used to identify the sender location by developers"
+msgstr "Naudojamas atskirti siuntimo vietą programuotojams"
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:195
+msgid "Venipak displayed pickup points"
+msgstr "Venipak atvaizduojamos atsiėmimo vietos"
+
+msgid "View"
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:401
+msgid "View MultiParcels Settings"
+msgstr "Peržiūrėti MultiParcels nustatymus"
+
+#: includes/class-mp-woocommerce-order-shipping.php:537
+msgid "View on Platform"
+msgstr "Peržiūrėti platformoje"
+
+#: woocommerce/emails/email-automatic-confirmation-failed.php:32
+msgid "View order"
+msgstr "Peržiūrėti užsakymą"
+
+#: includes/class-mp-shippings.php:202
+msgid "Waiting"
+msgstr "Laukiama"
+
+#: includes/class-mp-admin.php:1379
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:287
+msgid "Wednesday"
+msgstr "Trečiadienis"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2132
+msgid "Weight"
+msgstr "Svoris"
+
+#: includes/class-mp-admin.php:1544 includes/class-mp-admin.php:1547
+msgid "will show all pickup points"
+msgstr "rodo visus atsiėmimo taškus"
+
+#: includes/class-mp-admin.php:3182
+msgid "will show all terminals"
+msgstr ""
+
+#: includes/class-mp-admin.php:1208
+msgid "Without the API key the map won't be displayed"
+msgstr "Be API rakto žemėlapis nebus rodomas"
+
+#: multiparcels-shipping-for-woocommerce.php:245
+msgid "Working hours"
+msgstr "Darbo laikas:"
+
+#: includes/class-mp-amazing-shipping.php:159 includes/class-mp-admin.php:713
+#: includes/class-mp-admin.php:734 includes/class-mp-admin.php:755
+#: includes/class-mp-admin.php:771 includes/class-mp-admin.php:787
+#: includes/class-mp-admin.php:803 includes/class-mp-admin.php:1330
+#: includes/class-mp-admin.php:1530 includes/class-mp-admin.php:1535
+#: includes/class-mp-admin.php:1543 includes/class-mp-admin.php:1546
+#: includes/class-mp-admin.php:1598 includes/class-mp-admin.php:1613
+#: includes/class-mp-admin.php:1640 includes/class-mp-admin.php:1657
+#: includes/class-mp-admin.php:1725 includes/class-mp-admin.php:1746
+#: includes/class-mp-admin.php:1788 includes/class-mp-admin.php:1813
+#: includes/class-mp-admin.php:1879 includes/class-mp-admin.php:1898
+#: includes/class-mp-admin.php:1918 includes/class-mp-admin.php:1939
+#: includes/class-mp-woocommerce-order-shipping.php:517
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:429
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:469
+msgid "Yes"
+msgstr "Taip"
+
+#: includes/class-mp-admin.php:1110
+msgid "Yes, our plugin only takes 1 minute for any amount of orders"
+msgstr "Taip, mūsų įskiepis užtrunka tik 1 minutę bet kokiam užsakymų kiekiui."
+
+#: includes/class-mp-admin.php:1570 includes/class-mp-admin.php:1573
+msgid "You are using a custom location"
+msgstr "Jūs naudojate savo lokaciją"
+
+#: includes/class-mp-admin.php:2296
+msgid "You can unsubscribe any time!"
+msgstr "Jūs galite atsisakyti bet kada!"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2073
+msgid "You have reached your plan limit"
+msgstr "Pasiekėte plano ribą"
+
+#: includes/class-mp-woocommerce-order-shipping.php:2088
+msgid "Your company is not allowed to use this carrier"
+msgstr "Jūsų įmonė negali naudoti šio vėžėjo"
+
+#: includes/shipping/class-wc-mp-shipping-helper.php:513
+#, php-format
+msgid "Your order tracking number: %s"
+msgstr "Jūsų užsakymo sekimo numeris: %s"
+
+#: includes/class-mp-notices.php:77
+msgid "Your provided API key is not working."
+msgstr "Jūsų nurodytas API raktas neteisingas."
+
+#: multiparcels-shipping-for-woocommerce.php:176
+#, php-format
+msgid "Your WooCommerce version is %s."
+msgstr "Jūsų WooCommerce versija yra %s."
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:327
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:602
+msgid "ZITICITY delivery only to this city"
+msgstr "ZITICITY pristatymas tik į šį miestą"

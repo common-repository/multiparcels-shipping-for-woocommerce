@@ -1,0 +1,1318 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MultiParcels Shipping For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-03 00:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: multiparcels-shipping-for-woocommerce.php:139
+msgid ""
+"This plugin requires at least PHP version 5.6.0. Please contact your server "
+"administrator to upgrade your PHP version."
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:154
+msgid "This plugin requires at least WooCommerce version 3.0.0."
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:158
+msgid "Please upgrade your WooCommerce."
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:162
+#, php-format
+msgid "Your WooCommerce version is %s."
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:221
+#: includes/class-mp-admin.php:1305
+msgid ""
+"Address suggestions are enabled. Start typing the street name, city or "
+"postal code."
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:229
+msgid "Pickup location not found"
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:231
+msgid "Working hours"
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:233
+msgid "Searching..."
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:340
+msgid "View MultiParcels Settings"
+msgstr ""
+
+#: multiparcels-shipping-for-woocommerce.php:341 includes/class-mp-admin.php:57
+#: includes/class-mp-admin.php:58 includes/class-mp-admin.php:86
+#: includes/class-mp-admin.php:87 includes/class-mp-admin.php:566
+#: includes/class-mp-admin.php:1769 includes/class-mp-notices.php:73
+msgid "Settings"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:49
+#: includes/class-mp-amazing-shipping.php:141
+#: includes/class-mp-amazing-shipping.php:174
+#: includes/class-mp-amazing-shipping.php:248 includes/class-mp-admin.php:46
+#: includes/class-mp-admin.php:47 includes/class-mp-admin.php:75
+#: includes/class-mp-admin.php:76
+msgid "Shipments"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:58
+msgid "One solution for all courier parcels"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:62
+msgid ""
+"From here you could ship your orders in seconds without copying any order "
+"details, why not give it a try?"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:68
+msgid "Get free full version"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:144 includes/class-mp-admin.php:654
+msgid "Create"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:246
+msgctxt "Amazing shipping"
+msgid "Done"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:247
+msgctxt "Amazing shipping"
+msgid "Failed"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:249
+#: includes/class-mp-shippings.php:259
+msgid "Status"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:250
+msgid "Created at"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:251
+msgid "Actions"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:297
+msgid "Start"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:305
+msgid "Failed shipments"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:315
+#: includes/class-mp-shippings.php:248 woocommerce/order/mass-shipping.php:7
+msgid "Download all labels"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:325
+msgid "Reset failed"
+msgstr ""
+
+#: includes/class-mp-amazing-shipping.php:333 includes/class-mp-admin.php:695
+msgid "Delete"
+msgstr ""
+
+#: includes/class-mp-admin.php:199 includes/class-mp-admin.php:574
+msgid "API key"
+msgstr ""
+
+#: includes/class-mp-admin.php:207 includes/class-mp-admin.php:582
+msgid "Permissions"
+msgstr ""
+
+#: includes/class-mp-admin.php:215 includes/class-mp-admin.php:578
+msgid "Google maps API key"
+msgstr ""
+
+#: includes/class-mp-admin.php:223
+msgid "Carriers"
+msgstr ""
+
+#: includes/class-mp-admin.php:231
+msgid "Show all cities"
+msgstr ""
+
+#: includes/class-mp-admin.php:239
+msgid "Pickup location display place"
+msgstr ""
+
+#: includes/class-mp-admin.php:247
+msgid "Display selected pickup location information in checkout"
+msgstr ""
+
+#: includes/class-mp-admin.php:255
+msgid "Display pickup location title in checkout"
+msgstr ""
+
+#: includes/class-mp-admin.php:264
+msgid "Default carrier"
+msgstr ""
+
+#: includes/class-mp-admin.php:271
+msgid "Preferred pickup type"
+msgstr ""
+
+#: includes/class-mp-admin.php:279
+msgid "Default maximum items per package"
+msgstr ""
+
+#: includes/class-mp-admin.php:287
+msgid "Enable log"
+msgstr ""
+
+#: includes/class-mp-admin.php:295
+msgid "Default product weight"
+msgstr ""
+
+#: includes/class-mp-admin.php:303
+msgid "Product code delimiter"
+msgstr ""
+
+#: includes/class-mp-admin.php:311
+msgid "Default package size"
+msgstr ""
+
+#: includes/class-mp-admin.php:319
+msgid "Change order status after dispatching"
+msgstr ""
+
+#: includes/class-mp-admin.php:327
+msgid "Download labels"
+msgstr ""
+
+#: includes/class-mp-admin.php:335
+msgid "Skip dispatching for specific methods"
+msgstr ""
+
+#: includes/class-mp-admin.php:344
+msgid "Data update"
+msgstr ""
+
+#: includes/class-mp-admin.php:352
+msgid "Pickup locations"
+msgstr ""
+
+#: includes/class-mp-admin.php:391
+msgid "Sending locations"
+msgstr ""
+
+#: includes/class-mp-admin.php:399
+msgid "Name Surname/Company"
+msgstr ""
+
+#: includes/class-mp-admin.php:406
+#: includes/class-mp-woocommerce-order-shipping.php:1523
+msgid "Street"
+msgstr ""
+
+#: includes/class-mp-admin.php:413
+msgid "House"
+msgstr ""
+
+#: includes/class-mp-admin.php:420
+msgid "Apartment"
+msgstr ""
+
+#: includes/class-mp-admin.php:427 includes/class-mp-admin.php:1006
+#: includes/class-mp-woocommerce-order-shipping.php:1525
+msgid "City"
+msgstr ""
+
+#: includes/class-mp-admin.php:434 includes/class-mp-admin.php:1005
+#: includes/class-mp-woocommerce-order-shipping.php:1527
+msgid "Postal code"
+msgstr ""
+
+#: includes/class-mp-admin.php:441 includes/class-mp-admin.php:1007
+#: includes/class-mp-woocommerce-order-shipping.php:1529
+msgid "Country"
+msgstr ""
+
+#: includes/class-mp-admin.php:448
+#: includes/class-mp-woocommerce-order-shipping.php:1531
+msgid "Phone number"
+msgstr ""
+
+#: includes/class-mp-admin.php:455 includes/class-mp-admin.php:1656
+#: includes/class-mp-woocommerce-order-shipping.php:1535
+msgid "E-mail"
+msgstr ""
+
+#: includes/class-mp-admin.php:462
+msgid "Location code"
+msgstr ""
+
+#: includes/class-mp-admin.php:470
+msgid "Benefits"
+msgstr ""
+
+#: includes/class-mp-admin.php:480
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-mp-admin.php:488
+msgid "Display notice to customers"
+msgstr ""
+
+#: includes/class-mp-admin.php:498
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:95
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:163
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-mp-admin.php:506
+msgid "Icon position"
+msgstr ""
+
+#: includes/class-mp-admin.php:514
+msgid "Icon visibility"
+msgstr ""
+
+#: includes/class-mp-admin.php:522
+msgid "Icon width (cart)"
+msgstr ""
+
+#: includes/class-mp-admin.php:530
+msgid "Icon width (checkout)"
+msgstr ""
+
+#: includes/class-mp-admin.php:538
+msgid "Grid display"
+msgstr ""
+
+#: includes/class-mp-admin.php:546
+msgid "Grid display (aligned)"
+msgstr ""
+
+#: includes/class-mp-admin.php:558
+msgid "Plugin version"
+msgstr ""
+
+#: includes/class-mp-admin.php:562
+msgid "Plugin version (database)"
+msgstr ""
+
+#: includes/class-mp-admin.php:570
+msgid "Locations count"
+msgstr ""
+
+#: includes/class-mp-admin.php:612
+msgid "Last 31 days orders"
+msgstr ""
+
+#: includes/class-mp-admin.php:616
+msgid "Last 365 days orders"
+msgstr ""
+
+#: includes/class-mp-admin.php:665 includes/class-mp-admin.php:694
+msgid "Default"
+msgstr ""
+
+#: includes/class-mp-admin.php:726
+msgid "Used to identify the sender location by developers"
+msgstr ""
+
+#: includes/class-mp-admin.php:819
+msgid ""
+"Single order shipping details take about 5 minutes to enter in carrier's "
+"system, with our plugin only 1 minute for all orders."
+msgstr ""
+
+#: includes/class-mp-admin.php:823
+msgid "Let us save your precious time."
+msgstr ""
+
+#: includes/class-mp-admin.php:826
+msgid "Order shipping details sent to carrier's system"
+msgstr ""
+
+#: includes/class-mp-admin.php:828
+msgid "Easy label print from our plugin"
+msgstr ""
+
+#: includes/class-mp-admin.php:829
+msgid "Tracking code sent directly to customer"
+msgstr ""
+
+#: includes/class-mp-admin.php:830
+msgid "No hidden fees"
+msgstr ""
+
+#: includes/class-mp-admin.php:831
+msgid "Any many more features coming soon"
+msgstr ""
+
+#: includes/class-mp-admin.php:840
+msgid "Pricing"
+msgstr ""
+
+#: includes/class-mp-admin.php:847
+msgid "Yes, our plugin only takes 1 minute for any amount of orders"
+msgstr ""
+
+#: includes/class-mp-admin.php:917
+#: includes/class-mp-woocommerce-order-shipping.php:1476
+msgid "Not valid or not found"
+msgstr ""
+
+#: includes/class-mp-admin.php:920 includes/class-mp-admin.php:924
+#: includes/class-mp-woocommerce-order-shipping.php:1481
+#: includes/class-mp-woocommerce-order-shipping.php:1485
+msgid "Not valid"
+msgstr ""
+
+#: includes/class-mp-admin.php:922
+#: includes/class-mp-woocommerce-order-shipping.php:1483
+msgid "This field is required"
+msgstr ""
+
+#: includes/class-mp-admin.php:927
+#: includes/class-mp-woocommerce-order-shipping.php:1497
+msgid "Unknown error occurred"
+msgstr ""
+
+#: includes/class-mp-admin.php:947
+msgid "Without the API key the map won't be displayed"
+msgstr ""
+
+#: includes/class-mp-admin.php:950
+msgid "Get the API key"
+msgstr ""
+
+#: includes/class-mp-admin.php:953
+msgid "Free API key"
+msgstr ""
+
+#: includes/class-mp-admin.php:964
+msgid "None. Wrong API key"
+msgstr ""
+
+#: includes/class-mp-admin.php:967
+msgid "Limited (terminals/pickup points only)"
+msgstr ""
+
+#: includes/class-mp-admin.php:971
+msgid "Full"
+msgstr ""
+
+#: includes/class-mp-admin.php:981
+msgid "Get a free API key"
+msgstr ""
+
+#: includes/class-mp-admin.php:995
+msgid "Hide"
+msgstr ""
+
+#: includes/class-mp-admin.php:1000
+msgid "Carrier"
+msgstr ""
+
+#: includes/class-mp-admin.php:1001
+msgid "Identification"
+msgstr ""
+
+#: includes/class-mp-admin.php:1002
+msgid "Type"
+msgstr ""
+
+#: includes/class-mp-admin.php:1003
+#: includes/class-mp-woocommerce-order-shipping.php:1521
+msgid "Name"
+msgstr ""
+
+#: includes/class-mp-admin.php:1004
+msgid "Address"
+msgstr ""
+
+#: includes/class-mp-admin.php:1056
+msgid "Show"
+msgstr ""
+
+#: includes/class-mp-admin.php:1068 includes/class-mp-admin.php:1077
+#: includes/class-mp-admin.php:1135 includes/class-mp-admin.php:1150
+#: includes/class-mp-admin.php:1167 includes/class-mp-admin.php:1184
+#: includes/class-mp-admin.php:1262 includes/class-mp-admin.php:1273
+#: includes/class-mp-admin.php:1295 includes/class-mp-admin.php:1320
+#: includes/class-mp-admin.php:1392 includes/class-mp-admin.php:1412
+#: includes/class-mp-woocommerce-order-shipping.php:374
+#: includes/class-mp-woocommerce-order-shipping.php:421
+#: includes/class-mp-mass-shipping.php:85
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:262
+msgid "No"
+msgstr ""
+
+#: includes/class-mp-admin.php:1073 includes/class-mp-admin.php:1081
+#: includes/class-mp-admin.php:1130 includes/class-mp-admin.php:1145
+#: includes/class-mp-admin.php:1172 includes/class-mp-admin.php:1189
+#: includes/class-mp-admin.php:1257 includes/class-mp-admin.php:1278
+#: includes/class-mp-admin.php:1300 includes/class-mp-admin.php:1325
+#: includes/class-mp-admin.php:1387 includes/class-mp-admin.php:1407
+#: includes/class-mp-woocommerce-order-shipping.php:371
+#: includes/class-mp-mass-shipping.php:88
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:263
+msgid "Yes"
+msgstr ""
+
+#: includes/class-mp-admin.php:1078
+msgid "shows only pickup points in customer's delivery city"
+msgstr ""
+
+#: includes/class-mp-admin.php:1082
+msgid "will show all pickup points"
+msgstr ""
+
+#: includes/class-mp-admin.php:1090
+msgid "Before payment"
+msgstr ""
+
+#: includes/class-mp-admin.php:1091
+msgid "After shipping rate"
+msgstr ""
+
+#: includes/class-mp-admin.php:1092
+msgid "After order notes"
+msgstr ""
+
+#: includes/class-mp-admin.php:1093
+msgid "Before billing form"
+msgstr ""
+
+#: includes/class-mp-admin.php:1094
+msgid "After billing form"
+msgstr ""
+
+#: includes/class-mp-admin.php:1095
+msgid "Before shipping form"
+msgstr ""
+
+#: includes/class-mp-admin.php:1096
+msgid "After shipping form"
+msgstr ""
+
+#: includes/class-mp-admin.php:1105
+msgid "You are using a custom location"
+msgstr ""
+
+#: includes/class-mp-admin.php:1200
+msgid "After label"
+msgstr ""
+
+#: includes/class-mp-admin.php:1205
+msgid "Before Label"
+msgstr ""
+
+#: includes/class-mp-admin.php:1216
+msgid "Cart and checkout"
+msgstr ""
+
+#: includes/class-mp-admin.php:1221
+msgid "Only cart"
+msgstr ""
+
+#: includes/class-mp-admin.php:1226
+msgid "Only checkout"
+msgstr ""
+
+#: includes/class-mp-admin.php:1304
+msgid "Notice:"
+msgstr ""
+
+#: includes/class-mp-admin.php:1329
+msgid "This can help find problems faster. Enable and contact support"
+msgstr ""
+
+#: includes/class-mp-admin.php:1343
+msgid "Default weight for products with no weight"
+msgstr ""
+
+#: includes/class-mp-admin.php:1355
+msgid ""
+"You can use this feature to split product codes in to different products "
+"when dispatching"
+msgstr ""
+
+#: includes/class-mp-admin.php:1357
+msgid "Example product code: good-product1,better-product2,the-best-product3"
+msgstr ""
+
+#: includes/class-mp-admin.php:1359
+msgid ""
+"If the delimiter is a comma(,) - there would be three products when "
+"dispatching an order and not one"
+msgstr ""
+
+#: includes/class-mp-admin.php:1396
+msgid "Change order status to \"Completed\" after dispatching the order"
+msgstr ""
+
+#: includes/class-mp-admin.php:1465
+msgid "Shipping zones"
+msgstr ""
+
+#: includes/class-mp-admin.php:1474
+msgid "No locations found. Please try to run manual update"
+msgstr ""
+
+#: includes/class-mp-admin.php:1483
+msgid "Disable"
+msgstr ""
+
+#: includes/class-mp-admin.php:1491
+msgid "Enable"
+msgstr ""
+
+#: includes/class-mp-admin.php:1502
+msgid "Please update the data to receive the carriers list"
+msgstr ""
+
+#: includes/class-mp-admin.php:1537
+msgctxt "Pickup type"
+msgid "From terminal"
+msgstr ""
+
+#: includes/class-mp-admin.php:1541
+msgctxt "Pickup type"
+msgid "From hands"
+msgstr ""
+
+#: includes/class-mp-admin.php:1583
+msgid "Have any suggestions or problems?"
+msgstr ""
+
+#: includes/class-mp-admin.php:1586
+#, php-format
+msgid "Please do not hesitate to <a href='%s'>contact us</a>"
+msgstr ""
+
+#: includes/class-mp-admin.php:1617
+msgid "Get your free API key for terminals/pickup points!"
+msgstr ""
+
+#: includes/class-mp-admin.php:1621
+msgid "Features that come with the free version:"
+msgstr ""
+
+#: includes/class-mp-admin.php:1625
+msgid "Easy to configure"
+msgstr ""
+
+#: includes/class-mp-admin.php:1628
+msgid "Costs 0&euro; per month"
+msgstr ""
+
+#: includes/class-mp-admin.php:1631
+msgid "No credit card required"
+msgstr ""
+
+#: includes/class-mp-admin.php:1635
+msgid "Automatic daily updated pickup locations"
+msgstr ""
+
+#: includes/class-mp-admin.php:1638
+msgid "Configure every carrier the way you want"
+msgstr ""
+
+#: includes/class-mp-admin.php:1641
+msgid "Free shipping option"
+msgstr ""
+
+#: includes/class-mp-admin.php:1644
+msgid "Shows only possible locations for customer's city"
+msgstr ""
+
+#: includes/class-mp-admin.php:1648
+msgid "New carriers without updating the plugin"
+msgstr ""
+
+#: includes/class-mp-admin.php:1651
+msgid "Do you even need more features?"
+msgstr ""
+
+#: includes/class-mp-admin.php:1662
+msgid "Get the free API key"
+msgstr ""
+
+#: includes/class-mp-admin.php:1667
+msgid ""
+"By continuing you agree to occasionally receive information about new "
+"features, important notices about security etc. to your e-mail address"
+msgstr ""
+
+#: includes/class-mp-admin.php:1670
+msgid "You can unsubscribe any time!"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+#: includes/class-mp-admin.php:1696
+msgid "MultiParcels Shipping For WooCommerce"
+msgstr ""
+
+#: includes/class-mp-admin.php:1713
+msgid "Never"
+msgstr ""
+
+#: includes/class-mp-admin.php:1717
+msgid "WordPress automatic updates are disabled"
+msgstr ""
+
+#: includes/class-mp-admin.php:1732
+msgid "Manual update"
+msgstr ""
+
+#: includes/class-mp-admin.php:1736
+msgid "Last update"
+msgstr ""
+
+#: includes/class-mp-admin.php:1743
+msgid "Next update"
+msgstr ""
+
+#: includes/class-mp-admin.php:1756
+msgid "Settings saved."
+msgstr ""
+
+#: includes/class-mp-admin.php:1775
+msgid "Carrier logos"
+msgstr ""
+
+#: includes/class-mp-admin.php:1782
+msgid "Sender details"
+msgstr ""
+
+#: includes/class-mp-admin.php:1789
+msgid "Address autocomplete"
+msgstr ""
+
+#: includes/class-mp-admin.php:1797
+msgid "Full version"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:136
+msgid "Shipping disabled due to your settings"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:168
+msgid "Confirm"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:171
+msgid "Confirm unique shipment"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:174
+msgid "This allows to create a dublicate shipment for the same order"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:197
+msgid "Reset"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:383
+#: includes/class-mp-woocommerce-order-shipping.php:403
+#: woocommerce/order/mass-shipping.php:19
+msgid "Confirmed"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:391
+msgid "View on Platform"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:398
+msgid "Tracking code"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:414
+#: includes/class-mp-woocommerce-order-shipping.php:420
+#: includes/class-mp-woocommerce-order-shipping.php:425
+#: includes/class-mp-woocommerce.php:475
+msgid "Label"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:416
+msgctxt "label"
+msgid "View"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:426
+msgid "Feature disabled"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:429
+msgid "Items"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:432
+msgid "Unlimited"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:438
+msgid "Items per package"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:447
+msgid "Packages"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:451
+msgid "Total weight"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:462
+#: includes/class-mp-woocommerce.php:468
+msgid "Dispatch order"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:473
+msgid "Please add your sending location first"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:479
+msgid "Packages quantity"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:496
+msgid "Package size"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:583
+#: woocommerce/order/mass-shipping.php:18
+msgid "Shipping method"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1304
+msgid "Hands to hands"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1308
+msgid "Hands to terminal"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1312
+msgid "Terminal to terminal"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1316
+msgid "Terminal to hands"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1320
+msgid "Hands to post office"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1324
+msgid "Post office to post office"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1339
+msgid "Product name"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1340
+msgid "Product code"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1341
+msgid "Product quantity"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1343
+msgid "Comment"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1344
+msgid "Sending location"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1394
+msgid "Add a product"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1429
+#: includes/class-mp-woocommerce-order-shipping.php:1517
+#: includes/class-mp-woocommerce-order-shipping.php:1621
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:237
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:338
+msgid "Services"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1467
+msgid "Shipment creation failed"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1479
+msgid "You have reached your plan limit"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1487
+msgid ""
+"Such shipment route was not found. If you believe this shipment route should "
+"be enabled please contact us."
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1490
+msgid "This value has already been used"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1492
+msgid "Not enough products in the warehouse"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1494
+msgid "Your company is not allowed to use this carrier"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1509
+msgid "Sender"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1511
+#: woocommerce/order/mass-shipping.php:17
+msgid "Receiver"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1513
+msgid "Pickup"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1515
+msgid "Delivery"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1533
+#: includes/abstracts/abstract-wc-mp-courier-shipping-method.php:40
+msgid "Courier"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1537
+msgid "Weight"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1543
+msgid "Route"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1546
+msgid "Plan"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1549
+msgid "Unique shipment identifier"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1552
+msgid "Products"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1557
+msgid "CURL error"
+msgstr ""
+
+#: includes/class-mp-woocommerce-order-shipping.php:1562
+msgid "Confirmation error"
+msgstr ""
+
+#: includes/class-mp-mass-shipping.php:57
+#: includes/class-mp-mass-shipping.php:156
+msgid "Dispatch selected orders"
+msgstr ""
+
+#: includes/class-mp-shippings.php:196 woocommerce/admin/amazing-shipping.php:6
+msgid "Done"
+msgstr ""
+
+#: includes/class-mp-shippings.php:200
+msgid "Waiting"
+msgstr ""
+
+#: includes/class-mp-shippings.php:204
+msgid "Failed"
+msgstr ""
+
+#: includes/class-mp-shippings.php:208
+msgid "Already shipped"
+msgstr ""
+
+#: includes/class-mp-shippings.php:253
+msgid "History"
+msgstr ""
+
+#: includes/class-mp-shippings.php:258
+msgid "Order"
+msgstr ""
+
+#: includes/class-mp-shippings.php:260
+msgid "Errors"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:159
+msgid "Door code"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:160
+msgid "To make it easy and faster for courier to deliver your order"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:171
+msgid "Preferred delivery time"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:178
+#: includes/shipping/class-wc-mp-shipping-helper.php:108
+msgctxt "Preferred delivery time"
+msgid "Any time"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:226
+#: includes/shipping/class-wc-mp-shipping-helper.php:172
+msgid "Pickup location"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:232
+#: includes/shipping/class-wc-mp-shipping-helper.php:295
+#: includes/shipping/class-wc-mp-shipping-helper.php:297
+msgid "Please select the pickup location"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:368 includes/class-mp-locations.php:251
+msgid "Pickup Point"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:377
+msgid "MultiParcels Platform"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:425
+msgid "Save"
+msgstr ""
+
+#: includes/class-mp-woocommerce.php:477
+msgid "Order dispatched"
+msgstr ""
+
+#. Author of the plugin
+#: includes/class-mp-woocommerce.php:497
+msgid "MultiParcels"
+msgstr ""
+
+#: includes/class-mp-notices.php:43
+msgid ""
+"Create shipping labels, print them, add Cash-On-Delivery services and "
+"automatically send tracking codes to your customer with just one click."
+msgstr ""
+
+#: includes/class-mp-notices.php:47
+msgid "Start saving time with MultiParcels"
+msgstr ""
+
+#: includes/class-mp-notices.php:70
+msgid ""
+"With 1.9 version we are releasing ability to display carrier logos in "
+"cart/checkout. It is enabled by default, please check your cart and settings "
+"to make sure everything is displaying correctly. Thank you!"
+msgstr ""
+
+#: includes/class-mp-notices.php:77
+msgid "Leave us a 5-star review"
+msgstr ""
+
+#: includes/class-mp-notices.php:129
+msgid "Configuration required for this plugin to function!"
+msgstr ""
+
+#: includes/class-mp-notices.php:133 includes/class-mp-notices.php:145
+msgid "Configure MultiParcels"
+msgstr ""
+
+#: includes/class-mp-notices.php:141
+msgid "Your provided API key is not working."
+msgstr ""
+
+#: includes/class-multiparcels-service.php:26
+msgid "Registered"
+msgstr ""
+
+#: includes/class-multiparcels-service.php:30
+msgid "Registered and priority"
+msgstr ""
+
+#: includes/class-multiparcels-service.php:34
+msgid "Saturday delivery"
+msgstr ""
+
+#: includes/class-multiparcels-service.php:38
+msgid "Delivery to private person"
+msgstr ""
+
+#: includes/class-multiparcels-service.php:42
+msgid "Cash-on-delivery (COD)"
+msgstr ""
+
+#: includes/class-multiparcels-service.php:46
+msgid "Skip warehouse integrations"
+msgstr ""
+
+#: includes/class-mp-locations.php:248
+msgid "Terminal"
+msgstr ""
+
+#: includes/class-mp-locations.php:264
+msgid "Selected terminal"
+msgstr ""
+
+#: includes/class-mp-locations.php:267
+msgid "Selected pickup point"
+msgstr ""
+
+#: woocommerce/order/mass-shipping.php:5
+msgid "All orders shipped"
+msgstr ""
+
+#: woocommerce/order/mass-shipping.php:9 woocommerce/order/mass-shipping.php:55
+msgid "Dispatch orders"
+msgstr ""
+
+#: woocommerce/admin/amazing-shipping.php:3
+msgid "Sending..."
+msgstr ""
+
+#: includes/shipping/class-wc-mp-shipping-helper.php:240
+msgid "Please select the pickup location."
+msgstr ""
+
+#: includes/shipping/class-wc-mp-shipping-helper.php:352
+#, php-format
+msgid "Your order tracking number: %s"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-terminal-shipping-method.php:33
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:33
+#, php-format
+msgid ""
+"%s courier will deliver the parcel to the selected self-service terminal for "
+"customer to pickup any time."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-terminal-shipping-method.php:39
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:39
+msgid ""
+" This courier allows cash-on-delivery service when delivering to self-"
+"service parcel terminals."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-terminal-shipping-method.php:53
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:53
+msgid "Terminals"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-courier-shipping-method.php:30
+#, php-format
+msgid "%s courier will deliver the parcel right to the customer's hands."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:56
+msgid "Terminals/Pickup Points"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-pickup-point-shipping-method.php:59
+msgid "Pickup Points"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:105
+msgid "Title"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:107
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:113
+msgid "Delivery Fee"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:119
+msgid "Minimum weight"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:123
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:131
+msgid "Kilograms"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:127
+msgid "Maximum weight"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:135
+msgid "Tax status"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:140
+msgctxt "Tax status"
+msgid "None"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:141
+msgid "Taxable"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:145
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:365
+msgid "Minimum Order Amount For Free Shipping"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:149
+msgid ""
+"Users will need to spend this amount to get free shipping (if enabled above)."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:155
+msgid "Display only on selected day of the week"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:159
+msgid "Customers will only see this shipping method on the selected day"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:164
+msgid "Monday"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:165
+msgid "Tuesday"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:166
+msgid "Wednesday"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:167
+msgid "Thursday"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:168
+msgid "Friday"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:169
+msgid "Saturday"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:170
+msgid "Sunday"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:174
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:374
+msgid "Display only from the selected time"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:178
+msgid "Customers will only see this shipping method from the selected time"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:185
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:380
+msgid "Display only until the selected time"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:189
+msgid "Customers will only see this shipping method until the selected time"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:200
+msgid "Maximum packages"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:204
+msgid ""
+"Used to count how many packages this shipment will use when dispatching."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:209
+msgid "Maximum items per package"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:213
+msgid ""
+"How to count how many items in a single package this shipping method allows "
+"to use. For example if you allow 6 items per box - a cart of 8 products "
+"would be 2 packages. 0 - unlimited."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:240
+msgid ""
+"Services that will be used when creating shipments with this shipping method"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:255
+msgid "Allow preferred delivery time"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:258
+msgid ""
+"Allow customers to select their preferred delivery time. The carrier will "
+"probably apply extra charges for this preference."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:307
+msgid "Omniva (Lithuania)"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:311
+msgid "Omniva (Latvia)"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:315
+msgid "Omniva (Estonia)"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:319
+msgid "Lithuanian POST"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-shipping-method.php:355
+msgid "Allowed weight:"
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-post-shipping-method.php:30
+#, php-format
+msgid "%s will deliver the parcel to the closest post office."
+msgstr ""
+
+#: includes/abstracts/abstract-wc-mp-post-shipping-method.php:41
+msgid "Post office delivery"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easiest, fastest and the cheapest way to integrate couriers with all "
+"deliveries methods to send parcels with just a few button clicks."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://multiparcels.com"
+msgstr ""

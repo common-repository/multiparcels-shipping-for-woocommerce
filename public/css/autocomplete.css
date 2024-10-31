@@ -1,0 +1,61 @@
+
+#billing_address_1_field {
+    position: relative;
+}
+
+#multiparcels-autocomplete-items {
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 0 0 5px 5px;
+    padding: 5px 10px;
+    z-index: 999;
+    max-height: 130px;
+    overflow: auto;
+}
+
+.multiparcels-autocomplete-item {
+    cursor: pointer;
+}
+
+.multiparcels-autocomplete-item:hover {
+    font-weight: bold;
+}
+
+.multiparcels-autocomplete-item + .multiparcels-autocomplete-item {
+    border-top: 1px solid #ccc;
+    padding-top: 3px;
+    margin-top: 5px;
+}
+
+#multiparcels-autocomplete {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: auto;
+    z-index: 9999;
+}
+
+#multiparcels-autocomplete-close span {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    opacity: 0.3;
+}
+#multiparcels-autocomplete-close span:hover {
+    opacity: 1;
+}
+#multiparcels-autocomplete-close span:before, #multiparcels-autocomplete-close span:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 23px;
+    width: 2px;
+    background-color: #333;
+}
+#multiparcels-autocomplete-close span:before {
+    transform: rotate(45deg);
+}
+#multiparcels-autocomplete-close span:after {
+    transform: rotate(-45deg);
+}
+

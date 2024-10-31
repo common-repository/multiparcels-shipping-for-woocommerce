@@ -1,0 +1,51 @@
+#mp-gmap {
+    height: 200px;
+}
+
+.mp-selected-pickup-point-info {
+    padding: 10px 0;
+}
+
+#mp-wc-pickup-point-shipping.multiparcels-loading {
+    opacity: 0.25;
+}
+
+.multiparcels-door-code-invisible {
+    display: none !important;
+}
+
+#preferred_delivery_time_field {
+    display: none !important;
+}
+
+#mp-wc-pickup-point-shipping > div {
+    float: none !important;
+}
+
+.wfacp_page #mp-wc-pickup-point-shipping .select2-selection--single {
+    height: auto;
+}
+
+.wfacp_page #mp-wc-pickup-point-shipping .select2-selection__rendered {
+    padding-top: 14px;
+}
+
+.wfacp_page span.multiparcels-grid-display-text {
+    padding-left: 25px !important;
+}
+
+.select2-search__field[aria-owns="select2-mp-wc-pickup-point-shipping-select-results"]::-webkit-input-placeholder {
+    font-size: 100%;
+}
+.select2-search__field[aria-owns="select2-mp-wc-pickup-point-shipping-select-results"]::-moz-placeholder {
+    font-size: 100%;
+}
+.select2-search__field[aria-owns="select2-mp-wc-pickup-point-shipping-select-results"]:-ms-input-placeholder {
+    font-size: 100%;
+}
+.select2-search__field[aria-owns="select2-mp-wc-pickup-point-shipping-select-results"]::-ms-input-placeholder {
+    font-size: 100%;
+}
+.select2-search__field[aria-owns="select2-mp-wc-pickup-point-shipping-select-results"]::placeholder {
+    font-size: 100%;
+}
